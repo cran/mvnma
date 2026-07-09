@@ -1,6 +1,6 @@
-b2b7cf1dc455286608819a13c047e8a6 *DESCRIPTION
+bdffb15682efd4b92a066fbca601921a *DESCRIPTION
 5357a99563673480495706ada6d1e918 *NAMESPACE
-1273edfd4a7742eac6966faef074a678 *NEWS.md
+c5e46577e075496c8c8be0c4c894c635 *NEWS.md
 fe7f037b31c3fd9edcf883b99c89d5d1 *R/VIKOR.R
 a4c0ac4fdb5776082d76d833f8444de9 *R/as.mcmc.mvnma.R
 3214fb9a23133d94400315f98c4236ce *R/forest.mvnma.R
@@ -8,10 +8,10 @@ a60f77e095f0be13eba35739395837fc *R/hasse.R
 108b9968e0b1fe4c184a52715ed618bc *R/heatplot.mvrank.R
 0b9c5a38e1aaed20ce5e305fd5246c4d *R/linechart.R
 b7c635749787551302e9bb8c0e66c2fd *R/mvdata.R
-a276100b3e2c044cdcddf1f14d3dc417 *R/mvnma-internal.R
+aa7b3da591d5eb7825c33a638b3049dc *R/mvnma-internal.R
 a5920f6cfc512272c399aaae1cfc7a0b *R/mvnma-package.R
-02db7b47351fdbaab0f48a7b4c4df2e2 *R/mvnma.R
-53d64c53ffc77bb075782f6528a16df0 *R/mvnma_code.R
+97c15150c1d5868df9804fd89e3c16fd *R/mvnma.R
+e523102630aedf492787941a18c802cd *R/mvnma_code.R
 82a76c5efc608d1d8085860daba5a28d *R/mvrank.R
 e8b06662beecf90ec714697939550c0c *R/plot.mvrank.R
 226f2c5664ff823f4a0c68ff9729a418 *R/spiechart-internal.R
@@ -24,7 +24,7 @@ e8b06662beecf90ec714697939550c0c *R/plot.mvrank.R
 9b8ee211b2c317aa3a2d4363efb33ef1 *man/heatplot.mvrank.Rd
 ff84746c25ffbdc807054548b3ed1172 *man/linechart.Rd
 5da359434d9a6696e451b0b8d00644d1 *man/mvnma-package.Rd
-a463c15fa1f30e97681616d23c69d972 *man/mvnma.Rd
+4d38c2a9c5d559e6190e26f30394fff9 *man/mvnma.Rd
 329d7911419d3141440a9f30608b1835 *man/mvrank.Rd
 63519043d8a3d8d78ba3abe0729c99f6 *man/plot.mvrank.Rd
 451039d5892ae3b16d3db8f1b885bcef *man/spiechart.Rd
